@@ -6,3 +6,8 @@
 推荐每个章节为一个 Markdown 文件。一些常用的排版知识可以看 [这里](https://sspai.com/post/37815)。简要概括为中英（数学公式）交接的地方多敲一个空格，符号之类多用全角符号。
 # 浏览笔记
 合并后，可以在 [Page](http://ljxtt.top/notes/) 看到效果。
+# 可能会遇到的问题
+## 不会 $\LaTeX$ 语法输入公式怎么办？
+1. 推荐使用 [Mathpix Snip](https://mathpix.com/) 这个软件进行 OCR，支持手写体和印刷体。(但这软件并不是完全免费，可以使用临时邮箱注册账号，每个新账号都会送免费次数)
+2. 可以使用 [MyScript](https://webdemo.myscript.com/views/math/index.html) 这个网站，使用鼠标写出你的公式，它会输出相应的 $\LaTeX$ 代码。
+3. 可以使用妈咪叔的[ $\LaTeX$ 公式编辑器](https://latexlive.com/##)，此编辑器具有常用的公式写法，涵盖了大部分的公式，同时也支持 OCR 识别（后台调用的是 Mathpix Snip）。现在是否免费未知，刚开始时是免费的。
