@@ -20,6 +20,16 @@
       repo: '',
       // 加载 _sidebar.md
       loadSidebar: true,
+      search: {
+        noData: {
+          '/': '没有结果!',
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': '搜索',
+        },
+        pathNamespaces: ['/zh-cn']
+      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -28,7 +38,7 @@
   <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex/dist/docsify-katex.js"></script> -->
   <link rel="stylesheet" href="https://static.nowcoder.com/nc/jslib/katex@0.10.2/katex.min.css" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 
 
