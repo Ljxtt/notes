@@ -8,7 +8,9 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+    title="docsify-darklight-theme" type="text/css" />
+  <link rel="stylesheet" href="https://static.nowcoder.com/nc/jslib/katex@0.10.2/katex.min.css" />
 </head>
 
 <body>
@@ -16,10 +18,11 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: '考研笔记',
+      repo: 'https://github.com/Ljxtt/notes',
       // 加载 _sidebar.md
       loadSidebar: true,
+      themeColor: '#66CCFF',
       search: {
         noData: {
           '/': '没有结果!',
@@ -28,17 +31,46 @@
         placeholder: {
           '/': '搜索',
         },
-        pathNamespaces: ['/zh-cn']
       },
+
+      darklightTheme: {
+        defaultTheme: 'light',
+        dark: { background: '#22272E', sidebarBackground: '#2D333B', codeBackgroundColor: '#2D333B', blockQuoteColor: '#768390', textColor: '#ADBAC7', sidebarSublink: '#768390', accent: '#66CCFF', hrColor: '#1B293B', tdthBorderColor: '#4F5964', imgOpacity: 0.7 }, light: { sidebarBackground: '#FFFFFF', accent: '#66CCFF', hrColor: '#EEEEEE', tdthBorderColor: '#DDDDDD', imgOpacity: 1 }
+      },
+      count: {
+        countable: true,
+        position: 'bottom',
+        margin: '10px',
+        float: 'right',
+        fontsize: '0.9em',
+        color: 'rgb(90,90,90)',
+        language: 'chinese',
+        localization: {
+          words: "",
+          minute: ""
+        },
+        isExpected: true
+      }, pagination: {
+        previousText: '上一页',
+        nextText: '下一页',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      'flexible-alerts': {
+        style: 'flat'
+      }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
   <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex/dist/docsify-katex.js"></script> -->
-  <link rel="stylesheet" href="https://static.nowcoder.com/nc/jslib/katex@0.10.2/katex.min.css" />
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+    type="text/javascript"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
 </body>
 
 
