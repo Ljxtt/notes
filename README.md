@@ -2,7 +2,7 @@
 ![license](https://img.shields.io/github/license/Ljxtt/notes?style=flat-square)
 ![forks](https://img.shields.io/github/stars/Ljxtt/notes?style=flat-square)
 ![stars](https://img.shields.io/github/stars/Ljxtt/notes?style=flat-square)
-[![ljxtt.top/notes](https://img.shields.io/static/v1?label=%20&message=ljxtt.top/notes&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](http://ljxtt.top/notes/#/)
+[![ljxtt.top/notes](https://img.shields.io/static/v1?label=%20&message=ljxtt.top/notes&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](https://ljxtt.top/notes/#/)
 
 这里是一些笔记的共享以及在线浏览。
 ## 书写笔记 
@@ -11,6 +11,11 @@
 推荐每个章节为一个 Markdown 文件。一些常用的排版知识可以看 [这里](https://sspai.com/post/37815)。简要概括为中英（数学公式）交接的地方多敲一个空格，符号之类多用全角符号。
 
 合并后，可以在 [Page](http://ljxtt.top/notes/) 看到效果。
+
+> [!WARNING]
+> 
+> 对于笔记的正确性不作保证，若有疑问可以提出 issue
+
 ## 可能会遇到的问题
 ### 不会 $\LaTeX$ 语法输入公式怎么办？
 1. 推荐使用 [Mathpix Snip](https://mathpix.com/) 这个软件进行 OCR，支持手写体和印刷体。(但这软件并不是完全免费，可以使用临时邮箱注册账号，每个新账号都会送免费次数)
