@@ -1,5 +1,5 @@
 # 考研笔记
-![license](https://img.shields.io/github/license/Ljxtt/notes?style=flat-square)
+![cc-by-nc-sa-shield](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![forks](https://img.shields.io/github/stars/Ljxtt/notes?style=flat-square)
 ![stars](https://img.shields.io/github/stars/Ljxtt/notes?style=flat-square)
 [![ljxtt.top/notes](https://img.shields.io/static/v1?label=%20&message=ljxtt.top/notes&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](https://ljxtt.top/notes/#/)
