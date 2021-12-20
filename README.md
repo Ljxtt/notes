@@ -2,7 +2,7 @@
 [![cc-by-nc-sa-shield](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ![forks](https://img.shields.io/github/forks/Ljxtt/notes?style=flat-square)
 ![stars](https://img.shields.io/github/stars/Ljxtt/notes?style=flat-square)
-[![ljxtt.top/notes](https://img.shields.io/static/v1?label=%20&message=ljxtt.top/notes&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](https://ljxtt.top/notes/#/)
+[![ljxtt.top/notes](https://img.shields.io/static/v1?label=%20&message=ljxtt.top/notes&style=flat-square&labelColor=4B93F1&color=4285dd&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR42mP0nvzxPwMFgBHdgOYAbji7dsNX0g1IseeEs+cc/E68AVty+Ehyus+UT4PNAGxhEKDLiqGBYCDCYuHh+3/DzYANl38zyAsywfmwRDYIDUAGyGmD6DCgqgHEAADqpnHxT0ZWTwAAAABJRU5ErkJggg==)](https://note.ljxtt.top/)
 
 这里是一些笔记的共享以及在线浏览。
 ## 书写笔记 
